@@ -17,3 +17,9 @@ To start, the data above represents the Pounds Per Square Inch or PSI of the coi
 ![](images/Lot_Summary.png)
 
 When looking more closey at the data, we had to look to ensure that the variance of the suspension coils must not exceed 100 pounds per square inch, as these were the design specifications for the MechaCar. The variance of the PSI is 62.29 which is under the 100 PSI threshold. Looking at each lot individually we can see that Lots 1 and 2 are well within the range of the PSI having a 0.98 and a 7.47 PSI variance, respectfully. Lot 3, however, shows a variance of 170.29, well over the threshold of 100 PSI. 
+
+## T-Tests on Suspension Coils
+
+![](images/T_Test1)
+
+![](images/T_Test2)
